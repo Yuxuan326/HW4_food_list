@@ -9,5 +9,8 @@ case 1:
 case 2:
         food="salsd";
         break;
+case 5:
+        food="joke";
+        break;
 }
 Console.WriteLine("Random recommendation: " + food + ".")
