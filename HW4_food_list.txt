@@ -1,3 +1,13 @@
-case 3:
-        food="joke";
+switch (i)
+{
+case 0:
+        food="ramen";
         break;
+case 1:
+        food="spaghetti";
+        break;
+case 2:
+        food="salsd";
+        break;
+}
+Console.WriteLine("Random recommendation: " + food + ".")
